@@ -1,6 +1,12 @@
 body {
   background: #555;
   padding-top: 50px;
+  font-family: Arial;
+  color: #fff;
+}
+
+a {
+  color: #EDC12F;
 }
 
 .wrapper {
