@@ -1,0 +1,33 @@
+body {
+  background: #555;
+  padding-top: 50px;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 960px;
+}
+
+#my-timeline {
+
+}
+
+#storyjs-timeline {
+
+}
+
+#mavis .vco-timeline .vco-navigation .timenav-background .timenav-tag div h3 {
+  color: #555;
+}
+
+#mavis .vco-timeline .vco-navigation .timenav-background .timenav-tag-row-1,
+#mavis .vco-timeline .vco-navigation .timenav-background .timenav-tag-row-3,
+#mavis .vco-timeline .vco-navigation .timenav-background .timenav-tag-row-5 {
+  background: #E8F3F8;
+}
+
+#mavis .vco-timeline .vco-navigation .timenav-background .timenav-tag-row-2,
+#mavis .vco-timeline .vco-navigation .timenav-background .timenav-tag-row-4,
+#mavis .vco-timeline .vco-navigation .timenav-background .timenav-tag-row-6 {
+  background: #BCE3F5;
+}
